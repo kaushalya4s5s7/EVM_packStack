@@ -13,4 +13,11 @@ docs/
 # Dotenv file
 .env
 
+# Dependencies
 lib/
+
+# System files
+.DS_Store
+
+# Editor files
+.vscode/
